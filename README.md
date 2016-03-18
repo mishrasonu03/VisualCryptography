@@ -1,5 +1,4 @@
 # VisualCryptography
-Random grids based visual cryptography
 
 These are the MATLAB codes and the required data pertaining to our publications:
 
